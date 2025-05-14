@@ -1,0 +1,37 @@
+---
+title: "Xiping Zhang"
+---
+
+![](Zhang Xiping.jpg){width="150px"} 
+
+[Email Me](fitness123@qq.com)
+
+
+## Skills
+- R Programming
+- Data Visualization
+- Statistical Modeling
+
+## Education
+- UC Denver, B.A. in Economics & Math (Expected 2026)
+- DS & BA Minor (Expected 2026)
+- GPA: 3.97
+
+---
+title: "Hobbies"
+format: html
+---
+
+## Hobbies
+
+In my free time, I enjoy:
+
+- Playing basketball  
+- Reading economic theory  
+- Cooking Chinese food  
+
+![](dunk.jpg){width="150px"} 
+
+```{r}
+1+1
+```
